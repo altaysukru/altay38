@@ -12,6 +12,8 @@
 
  -->
 
+ [![wakatime](https://wakatime.com/badge/user/018b94da-80f5-4569-9d2f-a3c683ad4011.svg)](https://wakatime.com/@018b94da-80f5-4569-9d2f-a3c683ad4011)
+
 <a href="https://komarev.com/ghpvc/?username=altaysukru">
   <img align="right" src="https://komarev.com/ghpvc/?username=altaysukru&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
